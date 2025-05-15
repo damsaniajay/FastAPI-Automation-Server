@@ -1,0 +1,29 @@
+{
+  "test_results": [
+    {
+      "test_case_key": "QA-5",
+      "steps_results": [
+        {
+          "test_step": "Launch browser and go to https://www.flipkart.com",
+          "log_or_error": "Homepage loaded successfully",
+          "result": "Pass",
+          "timestamp": "2025-05-15T10:15:00Z"
+        },
+        {
+          "test_step": "Enter Samsung Galaxy S21 in the search bar",
+          "log_or_error": "Text appears in the search input",
+          "result": "Pass",
+          "timestamp": "2025-05-15T10:16:00Z"
+        },
+        {
+          "test_step": "Click the search icon",
+          "log_or_error": "Search results for Samsung Galaxy S21 are displayed",
+          "result": "Pass",
+          "timestamp": "2025-05-15T10:17:00Z"
+        }
+      ],
+      "overall_result": "Pass",
+      "timestamp": "2025-05-15 09:56:42.539200"
+    }
+  ]
+}
